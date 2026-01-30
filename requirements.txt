@@ -1,0 +1,2 @@
+# Requires: proto-latency
+# (Not available on PyPI)
